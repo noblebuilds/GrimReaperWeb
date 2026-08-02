@@ -2,7 +2,9 @@ const missionStatuses = [
   'Mission status: active and prepared.',
   'Mission status: silent movement in progress.',
   'Mission status: perimeter secured.',
-  'Mission status: contact likely. Stay disciplined.'
+  'Mission status: Engaging target, all systems operational.',
+  'Mission status: Awaiting further instructions.',
+  'Mission status: Mission accomplished, returning to base.'
 ];
 
 const missionStatusEl = document.getElementById('mission-status');
